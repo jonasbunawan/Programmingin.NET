@@ -1,0 +1,13 @@
+C:\Users\Jonas Bunawan\Desktop\700513X_Ass2\700513X_Ass2\bin\Debug\700513X_Ass2.exe
+C:\Users\Jonas Bunawan\Desktop\700513X_Ass2\700513X_Ass2\bin\Debug\700513X_Ass2.pdb
+C:\Users\Jonas Bunawan\Desktop\700513X_Ass2\700513X_Ass2\bin\Debug\700513X_Ass2.xml
+C:\Users\Jonas Bunawan\Desktop\700513X_Ass2\700513X_Ass2\obj\x86\Debug\_700513X_Ass2.CardGameMainMenu.resources
+C:\Users\Jonas Bunawan\Desktop\700513X_Ass2\700513X_Ass2\obj\x86\Debug\_700513X_Ass2.Resources.resources
+C:\Users\Jonas Bunawan\Desktop\700513X_Ass2\700513X_Ass2\obj\x86\Debug\700513X_Ass2.vbproj.GenerateResource.Cache
+C:\Users\Jonas Bunawan\Desktop\700513X_Ass2\700513X_Ass2\obj\x86\Debug\700513X_Ass2.exe
+C:\Users\Jonas Bunawan\Desktop\700513X_Ass2\700513X_Ass2\obj\x86\Debug\700513X_Ass2.xml
+C:\Users\Jonas Bunawan\Desktop\700513X_Ass2\700513X_Ass2\obj\x86\Debug\700513X_Ass2.pdb
+C:\Users\Jonas Bunawan\Desktop\700513X_Ass2\700513X_Ass2\obj\x86\Debug\_700513X_Ass2.AddCard.resources
+C:\Users\Jonas Bunawan\Google Drive\INF20013BusinessSystemsProgrammingIn.NET\Assignment\Assignment2\700513X_Ass2\700513X_Ass2\obj\x86\Debug\700513X_Ass2.exe
+C:\Users\Jonas Bunawan\Google Drive\INF20013BusinessSystemsProgrammingIn.NET\Assignment\Assignment2\700513X_Ass2\700513X_Ass2\obj\x86\Debug\700513X_Ass2.xml
+C:\Users\Jonas Bunawan\Google Drive\INF20013BusinessSystemsProgrammingIn.NET\Assignment\Assignment2\700513X_Ass2\700513X_Ass2\obj\x86\Debug\700513X_Ass2.pdb
